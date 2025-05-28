@@ -1,2 +1,2 @@
-print("Hola colega")
+print("Hola colega, adios colega")
 input()
